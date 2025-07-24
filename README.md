@@ -78,14 +78,6 @@ Or via pgAdmin:
 ✔ Data types (`numeric`, `boolean`, `varchar`)  
 ✔ Data insertion and logical grouping  
 
----
-
-## 📜 License
-
-This project was built as part of the freeCodeCamp curriculum. Feel free to reuse and extend it for learning purposes.
-
----
-
 ## 👤 Author
 
-Built by [Your Name] as part of the **Relational Database Certification** on freeCodeCamp.
+Built by Toluwalope Osisiogu as part of the **Relational Database Certification** on freeCodeCamp.
